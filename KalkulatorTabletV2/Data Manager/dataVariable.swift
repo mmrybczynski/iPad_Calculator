@@ -29,7 +29,6 @@ enum CalcButton: String {
     case clear = "AC"
     case negative = "+/-"
     case percent = "%"
-    
     case square = "^2"
     case tripple = "^3"
     case pi = "PI"
