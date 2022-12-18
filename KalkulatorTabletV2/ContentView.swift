@@ -21,7 +21,7 @@ struct ContentView: View {
             } else {
                 //landscape mode
                 
-                LanscapeMode()
+                LanscapeMode(widthOfScreen: widthOfScreen,heightOfScreen: heightOfScreen)
                 
             }
             
